@@ -1,10 +1,11 @@
 # Pitch-deck-
-Creating a pitch deck for the "Darth Vader Bot" involves structuring it into key sections that highlight the product's features, market potential, and business model. Below is a suggested outline and content for each slide:
+ 
 
 ### Slide 1: Title Slide
 - **Title:** Darth Vader Bot
 - **Subtitle:** The AI Chatbot for Multilingual Customer Queries
 - **Your Name & Date**
+- Austin Masaba,17/02/2025
 
 ### Slide 2: Problem Statement
 - **Key Issues:**
@@ -19,7 +20,7 @@ Creating a pitch deck for the "Darth Vader Bot" involves structuring it into key
 
 ### Slide 4: Product Features
 - **Multilingual Support:** 
-  - Supports over 20 languages, ensuring global reach.
+  - Supports 3 languages fluently English, Swahili and Spanish ensuring global reach.
 - **Natural Language Processing:**
   - Advanced NLP for understanding context and intent.
 - **Engaging Persona:**
@@ -29,7 +30,7 @@ Creating a pitch deck for the "Darth Vader Bot" involves structuring it into key
 
 ### Slide 5: Market Opportunity
 - **Growing Market:**
-  - Global chatbot market expected to reach $1.34 billion by 2024.
+  - Global chatbot market  to reach $1.34 billion by 2027 and to keep on scaling in the global market.
   - Increasing demand for customer support automation.
 - **Target Audience:**
   - E-commerce platforms, customer service departments, and global businesses.
